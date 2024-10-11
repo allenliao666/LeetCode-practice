@@ -2,6 +2,11 @@ Here are LeetCode problems that I have practiced.
 
 ## Problems list
 
+### Medium
+* [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+* [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+
+
 ### Easy
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
@@ -10,5 +15,3 @@ Here are LeetCode problems that I have practiced.
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 
-### Medium
-* [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
