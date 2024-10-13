@@ -5,6 +5,7 @@ Here are LeetCode problems that I have practiced.
 ### Medium
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+* [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
 
 
 ### Easy
