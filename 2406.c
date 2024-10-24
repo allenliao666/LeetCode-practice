@@ -1,3 +1,4 @@
+#include <limits.h>
 int minGroups(int** intervals, int intervalsSize, int* intervalsColSize) {
     *intervalsColSize = 2;
     int minStart = INT_MAX, maxEnd = INT_MIN, group = 0, maxGroup = 0;
