@@ -10,6 +10,7 @@ Here are LeetCode problems that I have practiced.
 * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 * [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
 * [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/)
+* [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
 * [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
 ### Easy
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
