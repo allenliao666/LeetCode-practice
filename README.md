@@ -16,6 +16,7 @@ Here are LeetCode problems that I have practiced.
 ### Easy
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+* [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
