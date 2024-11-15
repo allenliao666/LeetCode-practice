@@ -14,6 +14,6 @@ char* addBinary(char* a, char* b) {
         res[resL] = temp % 2 + '0';
         temp /= 2; 
     }
-    if(res[0] == '0') return res[1];
+    if(res[0] == '0') return res+1;
     return res;
 }
