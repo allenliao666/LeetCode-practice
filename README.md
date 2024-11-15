@@ -17,6 +17,7 @@ Here are LeetCode problems that I have practiced.
 * [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
 ### Easy
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+* [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
