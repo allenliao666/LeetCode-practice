@@ -21,6 +21,8 @@ Here are LeetCode problems that I have practiced.
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
+* [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+* [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
