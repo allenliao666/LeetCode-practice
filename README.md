@@ -24,7 +24,7 @@ Here are LeetCode problems that I have practiced.
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
-* [389. Find the Difference]（https://leetcode.com/problems/find-the-difference/description/）
+* [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
