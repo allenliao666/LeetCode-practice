@@ -30,6 +30,7 @@ Here are LeetCode problems that I have practiced.
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
+* [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
