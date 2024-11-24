@@ -42,5 +42,6 @@ Here are LeetCode problems that I have practiced.
 * [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/)
 * [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description)
+* [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 * [1995. Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/description/)
