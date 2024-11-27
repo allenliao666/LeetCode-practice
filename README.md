@@ -57,3 +57,4 @@ Here are LeetCode problems that I have practiced.
 * [2869. Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description)
 * [2917. Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/)
 * [2932. Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/)
+* [2980. Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/description/)
