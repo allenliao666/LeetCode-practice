@@ -53,3 +53,4 @@ Here are LeetCode problems that I have practiced.
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
 * [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/)
 * [2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/description/)
+* [2859. Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/description/)
