@@ -9,6 +9,7 @@ Here are LeetCode problems that I have practiced.
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/?envType=problem-list-v2&envId=bit-manipulation)
 * [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description)
+* [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
