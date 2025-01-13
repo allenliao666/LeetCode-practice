@@ -36,6 +36,8 @@ Here are LeetCode problems that I have practiced.
 * [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)
 * [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/)
 * [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
+* [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)
+
 ### Easy
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
