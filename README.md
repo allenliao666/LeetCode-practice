@@ -41,6 +41,7 @@ Here are LeetCode problems that I have practiced.
 
 ### Easy
 * [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
