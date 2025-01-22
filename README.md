@@ -18,6 +18,7 @@ Here are LeetCode problems that I have practiced.
 * [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 * [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/)
+* [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/)
 * [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/)
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/) 
 * [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)
