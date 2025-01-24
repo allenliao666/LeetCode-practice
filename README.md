@@ -14,6 +14,7 @@ Here are LeetCode problems that I have practiced.
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+* [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/)
 * [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/)
 * [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/)
